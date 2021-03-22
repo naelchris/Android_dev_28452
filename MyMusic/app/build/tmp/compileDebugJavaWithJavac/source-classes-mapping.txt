@@ -1,0 +1,27 @@
+com/example/mymusic/home/profileActivity.java
+ com.example.mymusic.home.profileActivity
+com/example/mymusic/BuildConfig.java
+ com.example.mymusic.BuildConfig
+com/example/mymusic/MusicListAdapter.java
+ com.example.mymusic.MusicListAdapter
+ com.example.mymusic.MusicListAdapter$MusicViewHolder
+com/example/mymusic/home/homeActivity.java
+ com.example.mymusic.home.homeActivity
+ com.example.mymusic.home.homeActivity$1
+ com.example.mymusic.home.homeActivity$2
+com/example/mymusic/login/loginActivity.java
+ com.example.mymusic.login.loginActivity
+ com.example.mymusic.login.loginActivity$1
+com/example/mymusic/musicPlayer.java
+ com.example.mymusic.musicPlayer
+ com.example.mymusic.musicPlayer$1
+ com.example.mymusic.musicPlayer$2
+ com.example.mymusic.musicPlayer$3
+ com.example.mymusic.musicPlayer$4
+ com.example.mymusic.musicPlayer$5
+ com.example.mymusic.musicPlayer$6
+ com.example.mymusic.musicPlayer$7
+ com.example.mymusic.musicPlayer$8
+com/example/mymusic/MainActivity.java
+ com.example.mymusic.MainActivity
+ com.example.mymusic.MainActivity$1
