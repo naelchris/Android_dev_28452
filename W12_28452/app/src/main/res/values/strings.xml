@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W12_28452</string>
+    <string name="tutorial_pembacaan_data_sensor">Tutorial Pembacaan Data Sensor</string>
+    <string name="tutorial_deteksi_sensor">Tutorial Deteksi Sensor</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+</resources>
